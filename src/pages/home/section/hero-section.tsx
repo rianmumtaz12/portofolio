@@ -18,7 +18,7 @@ export default function Hero() {
                         <img src="biwurian.png" alt="biwurian"
                         className="max-w-full mx-auto" />
                         <span className="absolute -bottom-0 -z-10 left-1/2 -translate-x-1/2 md:scale-125">
-                            <svg width="400" height="600" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                            <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                 <path fill="#0284c7" d="M31.1,-22.5C39.3,-3.6,44.4,12.5,38.7,30.5C33,48.4,16.5,68.3,-5.6,71.5C-27.8,74.8,-55.6,61.4,-61.9,43.1C-68.2,24.8,-53,1.5,-39.1,-20.6C-25.2,-42.6,-12.6,-63.5,-0.6,-63.1C11.4,-62.8,22.8,-41.3,31.1,-22.5Z" 
                                 transform="translate(100 100) scale(1.2)" 
                                 />
